@@ -20,5 +20,5 @@ Template of content repository for Accio Studio
     │   ├── index.json
     │   └── [:space hash]/
     │       └── [:file name].*
-    └── config.json
+    └── studio.config.json
 ```
